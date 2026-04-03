@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 1</title>
+</head>
+
+<body>
+    <table border="1" align="center" width="100%">
+        <tr>
+            <td colspan="3" bgcolor="E6D9C9">
+                <h2>TM Cafe</h2>
+            </td>
+            <td colspan="3" bgcolor="E6D9C9" align="center">
+                <h4>Home&nbsp;&nbsp;&nbsp; Menu &nbsp;&nbsp;&nbsp; Our Story &nbsp;&nbsp;&nbsp;<a
+                        href="https://www/" location>Location</h4>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="6" align="right"><img src="pic/main pic.jpg" width="100%" height="600"></td>
+        </tr>
+
+        <tr>
+            <td align="center"><img src="pic/menu1.jpg" align="center" width="70"><br><b>Espresso</b><br>A
+                bold,concentrated shot.<br> of pure coffee bliss.</td>
+            <td align="center"><img src="pic/menu1.jpg" align="center" width="70"><br><b>Latte</b><br>Smooth
+                espresso<br> meets creamy steamed milk.</td>
+            <td align="center"><img src="pic/menu1.jpg" align="center" width="70"><br><b>Cold
+                    Brew</b><br>Slow-steepd for 12 hours<br>for a refreshing,low-acid taste.</td>
+            <td colspan="2" align="center"><img src="pic/menu1.jpg" align="center" width="70"><br><b>Cappuccino</b><br>A
+                perfect balance of rich espresso,<br>steamed milk,and a thick layer of air foam on top</td>
+            <br>
+
+        <tr>
+            <td> <img src="pic/broown3.jpeg" style="width: 100%; height: 350px; object-fit: cover;"></td>
+            <td> <img src="pic/brown text.jpeg" style="width: 100%; height: 350px; object-fit: cover;"></td>
+            <td><img src="pic/cupp.jpeg" align="center" width="100%" height="350"></background-size:cover></td>
+            <td colspan="3" align="center" bgcolor="E6D9C9">Opening Hours <br>
+                <h2>7:00am-10:00pm</h2>Server your favorite blends. <br>Whether its a quick morning espresso <br> or
+                relaxing evening Latte. <br>We have got your cup waiting.
+            </td>
+        </tr>
+
+        <tr>
+            <td align="center">Visit Us Today <br><big><b>-Morning Happy-</b></big><br>Start your day with a smile and a
+                warm mug. <br>Our cozy atmosphere is the perfect place <br> to work or relax.</td>
+            <td align="center" colspan="5"><img src="pic/cups66666.jpeg" align="center" width="80%" height="350"></td>
+
+        </tr>
+
+        <tr>
+            <td colspan="6"><img src="pic/drinks.jpeg" width="100%" height="300"></td>
+        </tr>
+
+        <tr bgcolor="#E6D9C9">
+            <td colspan="2" align="center" style="padding: 20px;">
+
+                <h4 style="color: #3E2723;">Quality Beans</h4>
+                <p><small>Handpicked organic beans for the best flavor.</small></p>
+            </td>
+            <td colspan="2" align="center" style="padding: 20px;">
+
+                <h4 style="color: #3E2723;">Master Roasters</h4>
+                <p><small>Expertly roasted to bring out the rich aroma.</small></p>
+            </td>
+            <td colspan="2" align="center" style="padding: 20px;">
+
+                <h4 style="color: #3E2723;"><b>Fast Delivery</b></h4>
+                <p><small>Hot and fresh coffee delivered to your door.</small></p>
+            </td>
+        </tr>
+
+        <tr bgcolor="#3E2723">
+            <td colspan="6" align="center" style="padding: 15px; color: white; font-family: Arial;">
+                &copy; 2026 Coffee House. All Rights Reserved.
+                <br>
+                <small>Follow us on: Facebook | Instagram | Twitter</small>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
